@@ -1,0 +1,17 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.score{
+    font-size: small;
+    margin-left: 25px;
+}
+
+.timer{
+    font-size: small;
+    float: right;
+    margin-right: 25px;
+}
+
+
+        
